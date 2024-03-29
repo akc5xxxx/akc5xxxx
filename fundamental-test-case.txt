@@ -1,0 +1,63 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+!@#$%^
+Type the character position within the string:
+1234567
+Too big... Position reduced to max. available
+The character found at 5 position is '^'
+Type not empty string (q - to quit):
+a1b2c3d4
+Type the character position within the string:
+
+The character found at 0 position is 'a'
+Type not empty string (q - to quit):
+1234567890123456789012345678901234567890123456789012356789012345678901234567890
+Type the character position within the string:
+The character found at 0 position is '1'
+Type not empty string (q - to quit):
+q
+*** End of Indexing String Demo ***
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+computers
+The length of 'computers' is 9 characters
+Type a string (q - to quit):
+k[p
+The length of 'k[p' is 3 characters
+Type a string (q - to quit):
+123456789012345678901234567890123456789012345678901234567890123456789012345678901
+The length of '123456789012345678901234567890123456789012345678901234567890123456789012345678' is 78 characters
+Type a string (q - to quit):
+The length of '01' is 2 characters
+Type a string (q - to quit):
+~^V.,'"
+The length of '~^V.,'"' is 7 characters
+Type a string (q - to quit):
+q
+*** End of Measuring String Demo ***
+
+*** Start of Copying String Demo ***
+Destination string is reset to empty
+Type the source string (q to quit):
+
+New destination string is ''
+Destination string is reset to empty
+Type the source string (q to quit):
+123456789012345678901234567890123456789012345678901234567890123456789012345678901
+New destination string is '123456789012345678901234567890123456789012345678901234567890123456789012345678'
+Destination string is reset to empty
+Type the source string (q to quit):
+New destination string is '01'
+Destination string is reset to empty
+Type the source string (q to quit):
+abcDef$%12
+New destination string is 'abcDef$%12'
+Destination string is reset to empty
+Type the source string (q to quit):
+
+New destination string is ' '
+Destination string is reset to empty
+Type the source string (q to quit):
+q
+*** End of Copying String Demo ***

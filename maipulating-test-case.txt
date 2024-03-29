@@ -1,0 +1,73 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+789
+Type the 2nd string:
+890
+Concatenated string is '789890'
+Type the 1st string (q - to quit):
+$
+Type the 2nd string:
+$
+Concatenated string is '$$'
+Type the 1st string (q - to quit):
+b
+Type the 2nd string:
+b
+Concatenated string is 'bb'
+Type the 1st string (q - to quit):
+1234567890112345678901234567890123456789012345678901234567890123456789012345678901
+Type the 2nd string:
+Concatenated string is '123456789011234567890123456789012345678901234567890123456789012345678901234567901'
+Type the 1st string (q - to quit):q
+*** End of Concatenating Strings Demo ***
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+1
+Type the 2nd string to compare:
+4
+'1' string is less than '4'
+Type the 1st string to compare (q - to quit):
+456
+Type the 2nd string to compare:
+125
+'456' string is greater than '125'
+Type the 1st string to compare (q - to quit):
+a
+Type the 2nd string to compare:
+b
+'a' string is less than 'b'
+Type the 1st string to compare (q - to quit):
+123456789012345678901234567890123456789012345678901234567890123456789012345
+Type the 2nd string to compare:
+123456789034567890
+'123456789012345678901234567890123456789012345678901234567890123456789012345' string is less than '123456789034567890'
+Type the 1st string to compare (q - to quit):
+q
+*** Start of Searching Strings Demo ***
+Type the string (q - to quit):
+apple
+Type the substring:
+ap
+'ap' found at 0 position
+Type the string (q - to quit):
+
+Type the substring:
+
+'' found at 0 position
+Type the string (q - to quit):
+shubhama
+Type the substring:
+a
+'a' found at 5 position
+Type the string (q - to quit):
+abcdef
+Type the substring:
+d
+'d' found at 3 position
+Type the string (q - to quit):
+1234567890123456789012345678901234567890123456789012345678901234567890121234567890359865
+Type the substring:
+Not found
+Type the string (q - to quit):
+q
+*** End of Searching Strings Demo ***

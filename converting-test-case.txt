@@ -1,0 +1,59 @@
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit):
+bcd
+Converted number is 0
+Type an int numeric string (q - to quit):
+584
+Converted number is 584
+Type an int numeric string (q - to quit):
+789
+Converted number is 789
+Type an int numeric string (q - to quit):
+efg456
+Converted number is 0
+Type an int numeric string (q - to quit):
+446efg
+Converted number is 446
+Type an int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+myfirsttesting
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+67895
+Converted number is 67895.000000
+Type the double numeric string (q - to quit):
+4196hithere
+Converted number is 4196.000000
+Type the double numeric string (q - to quit):
+Welcome to seneca
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+helloCPR101
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+q
+** End of Converting String to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+2025year
+Converted number is 2025
+Type the long numeric string (q - to quit):
+1-1-1
+Converted number is 1
+Type the long numeric string (q - to quit):
+#12334
+Converted number is 0
+Type the long numeric string (q - to quit):
+2001 is the best year
+Converted number is 2001
+Type the long numeric string (q - to quit):
+abcd123
+Converted number is 0
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***

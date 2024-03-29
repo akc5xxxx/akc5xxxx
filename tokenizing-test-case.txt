@@ -1,0 +1,81 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+aa
+Word #1 is 'aa'
+Type a few words separated by space (q - to quit):
+abf q
+Word #1 is 'abf'
+Word #2 is 'q'
+Type a few words separated by space (q - to quit):
+ld sdl
+Word #1 is 'ld'
+Word #2 is 'sdl'
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+12      32
+Word #1 is '12  32'
+Type a few words separated by space (q - to quit):
+sdf,dfs
+Word #1 is 'sdf,dfs'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+ab,sdf
+Phrase #1 is 'ab'
+Phrase #2 is 'sdf'
+Type a few phrases separated by comma(q - to quit):
+sdlf,sdl,sdf
+Phrase #1 is 'sdlf'
+Phrase #2 is 'sdl'
+Phrase #3 is 'sdf'
+Type a few phrases separated by comma(q - to quit):
+sfd;sfdf,sdf
+Phrase #1 is 'sfd;sfdf'
+Phrase #2 is 'sdf'
+Type a few phrases separated by comma(q - to quit):
+abc def
+Phrase #1 is 'abc def'
+Type a few phrases separated by comma(q - to quit):
+fsdf,dif
+Phrase #1 is 'fsdf'
+Phrase #2 is 'dif'
+Type a few phrases separated by comma(q - to quit):
+abc , ddsf
+Phrase #1 is 'abc '
+Phrase #2 is ' ddsf'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+*** Start of Tokenizing sentences Demo ***
+Type a few sentences separated by dot (q - to quit):
+abc...efg
+Sentence #1 is 'abc'
+Sentence #2 is 'efg'
+Type a few sentences separated by dot (q - to quit):
+apple...bakk
+Sentence #1 is 'apple'
+Sentence #2 is 'bakk'
+Type a few sentences separated by dot (q - to quit):
+seneca..college..is..best
+Sentence #1 is 'seneca'
+Sentence #2 is 'college'
+Sentence #3 is 'is'
+Sentence #4 is 'best'
+Type a few sentences separated by dot (q - to quit):
+hello world, hello
+Sentence #1 is 'hello world, hello'
+Type a few sentences separated by dot (q - to quit):
+apple..ball..catt
+Sentence #1 is 'apple'
+Sentence #2 is 'ball'
+Sentence #3 is 'catt'
+Type a few sentences separated by dot (q - to quit):
+q
+*** End of Tokenizing sentences Demo ***
